@@ -72,6 +72,17 @@ Unlike static reports, this dashboard allows:
 # Visual of Dashboard driven
 <img width="843" height="611" alt="Screenshot 2026-04-02 104351" src="https://github.com/user-attachments/assets/03b809bc-e994-4821-93d3-e952175eebfb" />
 
+# Data Processing (SQL)
+
+The data was preprocessed using SQL before visualization:
+
+Cleaned missing and inconsistent values
+Performed data transformations and feature engineering
+Aggregated data for analysis
+Structured dataset for efficient dashboard performance
+
+📁 SQL scripts are included in the repository to demonstrate the complete data pipeline.
+
 
 # Data Source
 Structured student dataset stored in SQL database
